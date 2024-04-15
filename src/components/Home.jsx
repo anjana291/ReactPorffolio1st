@@ -5,7 +5,7 @@ function Home() {
 
   return (
     <>
-    <div className='row p-3' style={{height:'85vh'}}>
+    <div className='row p-3' style={{height:'100vh'}}>
         <div className='col-md-1'></div>
         <div className='col-md-6 d-flex'>
             
