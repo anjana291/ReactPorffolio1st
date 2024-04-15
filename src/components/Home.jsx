@@ -7,7 +7,7 @@ function Home() {
     <>
     <div className='row p-3' style={{height:'100vh'}}>
         <div className='col-md-1'></div>
-        <div className='col-md-6 d-flex'>
+        <div className='col-md-5 d-flex'>
             
                     <div className='mt-5'>
                         <h2>Hi,I'm a Frontend Web</h2>
@@ -27,6 +27,7 @@ function Home() {
                        </div>
                     </div>
         </div>
+        <div className='col-md-1'></div>
         <div className='col-md-4'>   
           <div> <img src="./src/assets/download__9.png" alt="" className='w-100 h-100'/> </div>
         </div>   
