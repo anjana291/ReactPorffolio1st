@@ -4,7 +4,7 @@ import ProgressBar from 'react-bootstrap/ProgressBar';
 function Skills() {
   return (
     <>
-    <div className='container'>
+    <div className='container mt-5'>
         <div className='row justify-content-center' style={{height:'100vh'}}>
             <h1 className='p-4 ms-5'><span className='text-warning'>My</span> Skills</h1>
             <div className='col-md-1'></div>
